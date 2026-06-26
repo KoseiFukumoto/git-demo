@@ -1,6 +1,6 @@
 public class Momotaro {
 	public static void main(String[] args) {
-		System.out.println("昔々あるところに");
+		System.out.println("少し未来のお話。");
 
 		// 誰が居た？
 		String name1 = "おじいさん"; // 1
