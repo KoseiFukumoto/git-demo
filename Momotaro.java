@@ -16,7 +16,7 @@ public class Momotaro {
 		System.out.println(do1 + "に,");
 
 		// name2はどこへ行った？
-		String place2 = "川"; // 5:田畑妃那
+		String place2 = "NewYork"; // 5:田畑妃那
 		System.out.print(name2 + "は" + place2 + "へ");
 
 		// name2は何をした？
