@@ -41,7 +41,7 @@ public class Momotaro {
 		System.out.println(thing + "太郎達は力を合わせ見事" + enemy + "に勝利しました！");
 
 		// 最後に何をした？
-		String oti = "幸せに暮らしました。"; // 10:木戸喬之
+		String oti = "魔王を倒す旅に出るのでした。"; // 10:木戸喬之
 		System.out.println(thing + "太郎は仲間とともに村へ帰り、" + oti);
 		System.out.println("めでたしめでたし");
 
