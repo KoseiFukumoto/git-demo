@@ -1,6 +1,6 @@
 public class Momotaro {
 	public static void main(String[] args) {
-		System.out.println("昔々あるところに");
+		System.out.println("めっちゃ未来の話。");// 福本好晟
 
 		// 誰が居た？
 		String name1 = "おじいさん"; // 1:小川直希
