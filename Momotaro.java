@@ -4,7 +4,8 @@ public class Momotaro {
 
 		// 誰が居た？
 		String name1 = "今井先生"; // 1:小川直希
-		String name2 = "おばあさん"; // 2:山下佑輔
+		String name2 = "リオレウス亜種"; // 2:山下佑輔
+
 		System.out.println(name1 + "と" + name2 + "が暮らしていました。");
 
 		// name1はどこへ行った？
