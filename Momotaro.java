@@ -32,7 +32,7 @@ public class Momotaro {
 		System.out.println("二人はその子を" + thing + "太郎と名付け、大切に育てました。");
 
 		// 敵は誰？
-		String enemy = "鬼"; // 8:長澤彬太郎
+		String enemy = "デデデ大王"; // 8:長澤彬太郎
 		System.out.println("やがて" + thing + "太郎は立派に育ち" + enemy + "退治に出かけました。");
 
 		// 誰を味方にした？
