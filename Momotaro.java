@@ -8,7 +8,7 @@ public class Momotaro {
 		System.out.println(name1 + "と" + name2 + "が暮らしていました。");
 
 		// name1はどこへ行った？
-		String place1 = "山"; // 3:西山綺羅
+		String place1 = "オンパロス"; // 3:西山綺羅
 		System.out.print("ある日," + name1 + "は" + place1 + "へ");
 
 		// name1は何をした？
