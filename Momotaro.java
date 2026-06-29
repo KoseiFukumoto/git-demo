@@ -3,7 +3,7 @@ public class Momotaro {
 		System.out.println("めっちゃ未来の話。");// 福本好晟
 
 		// 誰が居た？
-		String name1 = "おじいさん"; // 1:小川直希
+		String name1 = "今井先生"; // 1:小川直希
 		String name2 = "おばあさん"; // 2:山下佑輔
 		System.out.println(name1 + "と" + name2 + "が暮らしていました。");
 
