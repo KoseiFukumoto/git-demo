@@ -24,7 +24,7 @@ public class Momotaro {
 		System.out.println(do2 + "をしに行きました。");
 
 		// 何が現れた？
-		String thing = "桃"; // 7:西村貫汰
+		String thing = "桃太郎"; // 7:西村貫汰
 		System.out.println(name2 + "が" + place2 + "で" + do2 + "をしていると大きな"+ thing + "が流れてきました。");
 		System.out.println(name2 + "は" + thing + "を家に持って帰って割ってみることにしました。");
 
