@@ -36,7 +36,7 @@ public class Momotaro {
 		System.out.println("やがて" + thing + "太郎は立派に育ち" + enemy + "退治に出かけました。");
 
 		// 誰を味方にした？
-		String ally = "キジ"; // 9:新田涼太
+		String ally = "ペッパーくん"; // 9:新田涼太
 		System.out.println(thing + "太郎は道中でイヌ、サル、" + ally + "を仲間にしました。");
 		System.out.println(thing + "太郎達は力を合わせ見事" + enemy + "に勝利しました！");
 
