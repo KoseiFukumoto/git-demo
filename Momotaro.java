@@ -12,7 +12,7 @@ public class Momotaro {
 		System.out.print("ある日," + name1 + "は" + place1 + "へ");
 
 		// name1は何をした？
-		String do1 = "芝刈り"; // 4:井上拓馬
+		String do1 = "いちご狩り"; // 4:井上拓馬
 		System.out.println(do1 + "に,");
 
 		// name2はどこへ行った？
