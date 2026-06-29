@@ -20,7 +20,7 @@ public class Momotaro {
 		System.out.print(name2 + "は" + place2 + "へ");
 
 		// name2は何をした？
-		String do2 = "洗濯"; // 6:春日桃香
+		String do2 = "渋谷におでかけ"; // 6:春日桃香
 		System.out.println(do2 + "をしに行きました。");
 
 		// 何が現れた？
